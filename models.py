@@ -1,0 +1,1 @@
+#INSERT INTO "Artist"(name, city, state, phone, genres, image_link, website_link) VALUES('Mavins House', 'Lagos', 'Lagos', '08097005320', '{"rock", "pop"}', 'link', 'link');  
