@@ -66,6 +66,4 @@ class Artist(db.Model):
 
     def __repr__(self):
         return f'<Todo {self.id} {self.name} {self.city}>'
-
-# TODO Implement Show and Artist models, and complete all model relationships and properties, as a database migration.
 db.create_all()
